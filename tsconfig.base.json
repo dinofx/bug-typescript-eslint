@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "lib": ["ES2018"],
+    "declaration": true,
+    "declarationMap": true,
+    "stripInternal": true,
+
+    "noImplicitReturns": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  }
+}

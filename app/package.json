@@ -1,0 +1,8 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "types": "./lib",
+  "dependencies": {
+    "core": "1.0.0"
+  }
+}
